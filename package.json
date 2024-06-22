@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/corrupti-molestias-qui-perspiciatis",
-  "version": "4.3.46",
+  "version": "4.3.47",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -732,5 +732,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/corrupti-molestias-qui-perspiciatis/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
